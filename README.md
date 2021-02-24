@@ -1,1 +1,1 @@
-# https://github.com/olegletto/angular-resume
+#https://olegletto.github.io/angular-resume
